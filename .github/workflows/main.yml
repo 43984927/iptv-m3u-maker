@@ -30,7 +30,9 @@ jobs:
     - name: Run iptv.py
       run: |
           cd python
-          python iptv.py
+          find ./python -name "*.py" -type f -print0 | while IFS= read -r -d $'\0' file; do
+          echo "Running $file"
+          python "$file"
       
 
     - name: Deploy to GitHub Pages
