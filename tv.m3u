@@ -1,0 +1,351 @@
+#EXTM3U
+#EXTINF:-1, group-title="地方频道", 香港耀才财经
+http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", 印度
+http://204.107.27.38/live/3485.low.stream/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", NTV
+http://93.115.137.166/hls/ntvm.m3u8
+#EXTINF:-1, group-title="其他频道", TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+#EXTINF:-1, group-title="其他频道", TV8
+http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8
+#EXTINF:-1, group-title="其他频道", TVN
+http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
+#EXTINF:-1, group-title="其他频道", TVW
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
+#EXTINF:-1, group-title="其他频道", RETV
+http://edge-telia1.tiesraides.lv/live/retv.lv.1_1/playlist_b1825196.m3u8
+#EXTINF:-1, group-title="其他频道", TSTV
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+#EXTINF:-1, group-title="其他频道", CayTV
+http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
+#EXTINF:-1, group-title="其他频道", FoxTV
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", KeyTV
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+#EXTINF:-1, group-title="其他频道", Newsy
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
+#EXTINF:-1, group-title="其他频道", OneTV
+http://82.212.74.2:8000/live/7308.m3u8
+#EXTINF:-1, group-title="其他频道", RyeTV
+http://oflash.dfw.swagit.com/live/ryeny/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", TVLux
+http://live.tvlux.sk:1935/lux/lux.stream_360p/chunklist_w1295439472.m3u8
+#EXTINF:-1, group-title="其他频道", TVNet
+http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8
+#EXTINF:-1, group-title="其他频道", TVW-2
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
+#EXTINF:-1, group-title="其他频道", HighTV
+http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", HiruTV
+http://cdncities.com/8012/8012/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", Nessma
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nessma
+#EXTINF:-1, group-title="其他频道", News24
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", TVINES
+http://liveabr2.sambatech.com.br/abr/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestreamabr.m3u8
+#EXTINF:-1, group-title="其他频道", WHOHTV
+http://oflash.dfw.swagit.com/live/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", 花花公子蒙古
+http://spacetv.in/stream/WUQP6BVK17/56.m3u8
+#EXTINF:-1, group-title="其他频道", BadenTV
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+#EXTINF:-1, group-title="其他频道", Canale7
+http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+#EXTINF:-1, group-title="其他频道", KTVPlus
+https://svs.itworkscdn.net/ktvpluslive/kplus.smil/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", SuperTV
+http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+#EXTINF:-1, group-title="其他频道", TVCreta
+http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", TVTorun
+http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
+#EXTINF:-1, group-title="其他频道", ~7月24日~
+http://stream.dubstep.fm:80/256mp3
+#EXTINF:-1, group-title="其他频道", 100%News
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1, group-title="其他频道", DubaiOne
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
+#EXTINF:-1, group-title="其他频道", EmaratTV
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
+#EXTINF:-1, group-title="其他频道", KTVSport
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
+#EXTINF:-1, group-title="其他频道", News24/7
+http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
+#EXTINF:-1, group-title="其他频道", NovyjMir
+http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", RigaTV24
+http://player.tvnet.lv/live/amlst:11/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", Saudi2TV
+http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=saudi2tv
+#EXTINF:-1, group-title="其他频道", TVSenado
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
+#EXTINF:-1, group-title="其他频道", +FreeIPTV
+http://stream.srg-ssr.ch/m/rsj/mp3_128
+#EXTINF:-1, group-title="其他频道", AlArabiya
+http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa
+#EXTINF:-1, group-title="其他频道", Digital15
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0011&mode=12
+#EXTINF:-1, group-title="其他频道", ExtremaTV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", GarlandTV
+http://oflash-alt.dfw.swagit.com/live/garlandtx/smil:hd-16x9-1-a/chunklist.m3u8
+#EXTINF:-1, group-title="其他频道", HimlenTV7
+http://vod.tv7.fi:1935/tv7-se/_definst_/mp4:tv7-se.stream_360p/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", NabdSyria
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nabdsyria
+#EXTINF:-1, group-title="其他频道", NewsmaxTV
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1, group-title="其他频道", RedBullTV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1, group-title="其他频道", RetroHits
+http://149.56.183.178:8300/stream
+#EXTINF:-1, group-title="其他频道", SaudiNews
+http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=ekhbariyatv
+#EXTINF:-1, group-title="其他频道", Telestar1
+http://193.34.109.10:8090
+#EXTINF:-1, group-title="其他频道", telePAVIA
+http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
+#EXTINF:-1, group-title="其他频道", 112Ukraine
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+#EXTINF:-1, group-title="其他频道", AlSharqiya
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", FunXHipHop
+http://icecast.omroep.nl/funx-hiphop-sb-mp3
+#EXTINF:-1, group-title="其他频道", Futuro88.9
+http://unlimited6-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", Hot108JAMZ
+http://66.85.88.174:80/hot108
+#EXTINF:-1, group-title="其他频道", KTVAlArabi
+https://svs.itworkscdn.net/ktvarabelive/karabe.smil/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", NiuCL[AAC]
+http://live-origin.us.niu.cl/niu_cl.aac
+#EXTINF:-1, group-title="其他频道", RBC(Opt-1)
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1, group-title="其他频道", StarPeople
+http://2.139.144.101:8020/1
+#EXTINF:-1, group-title="其他频道", BeachTV-30A
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", Canal9Salta
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", Eye95TV(US)
+http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8
+#EXTINF:-1, group-title="其他频道", KTV1(Opt-1)
+https://svs.itworkscdn.net/ktv1live/ktv1.smil/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", KTV1(Opt-2)
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv1
+#EXTINF:-1, group-title="其他频道", KTV2(Opt-1)
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv2
+#EXTINF:-1, group-title="其他频道", KTV2(Opt-2)
+https://svs.itworkscdn.net/ktv2live/ktv2.smil/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", KTVAlMajlis
+https://svs.itworkscdn.net/ktvalmajlislive/kalmajlis.smil/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", Niu90s[AAC]
+http://live-origin.us.niu.cl/niu_90s.aac
+#EXTINF:-1, group-title="其他频道", PBCTapeshTV
+http://iptv.tapesh.tv/tapesh/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", Charge!(Geo)
+https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:-1, group-title="其他频道", NewOrleansTV
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", NiuLIVE[AAC]
+http://live-origin.us.niu.cl/niu_live.aac
+#EXTINF:-1, group-title="其他频道", NiuRock[AAC]
+http://live-origin.us.niu.cl/niu_rock.aac
+#EXTINF:-1, group-title="其他频道", SharqiyaNews
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", US-NewsmaxTV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1, group-title="其他频道", 92News(Opt-1)
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", =July.12.2018
+http://stream.srg-ssr.ch/m/rsc_de/mp3_128
+#EXTINF:-1, group-title="其他频道", AlKassSports1
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:-1, group-title="其他频道", AlKassSports3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:-1, group-title="其他频道", AlKassSports4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:-1, group-title="其他频道", AlKassSports5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF:-1, group-title="其他频道", IonianChannel
+http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", NiuIndie[AAC]
+http://live-origin.us.niu.cl/niu_indie.aac
+#EXTINF:-1, group-title="其他频道", TVPlusSuceava
+http://85.186.146.34:8080
+#EXTINF:-1, group-title="其他频道", AtlantaChannel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
+#EXTINF:-1, group-title="其他频道", CBSNews(Opt-2)
+https://www.cbsnews.com/common/video/dai_prod.m3u8
+#EXTINF:-1, group-title="其他频道", Canal4Saltillo
+http://162.241.190.126:1935/live/canal4/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", CometTV(Opt-1)
+http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
+#EXTINF:-1, group-title="其他频道", DaytonaBeachTV
+http://oflash.dfw.swagit.com/live/daytonabeachfl/smil:std-4x3-1-a/chucklist.m3u8
+#EXTINF:-1, group-title="其他频道", LitusTVSantaFe
+http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", OmroepWaasland
+http://5.63.151.52:7058/stream
+#EXTINF:-1, group-title="其他频道", Canal10RioNegro
+http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", DeepHouseLounge
+http://198.15.94.34:8024/stream
+#EXTINF:-1, group-title="其他频道", Saudi1TV(Opt-1)
+http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=saudi1tv
+#EXTINF:-1, group-title="其他频道", TVGaliciaEuropa
+http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", TVKujawy(Opt-1)
+http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
+#EXTINF:-1, group-title="其他频道", ThePowerStation
+http://5.63.151.52:7032/stream
+#EXTINF:-1, group-title="其他频道", 2SMSydney[Opt-1]
+http://144.140.228.109:8220/mp3/master.m3u8
+#EXTINF:-1, group-title="其他频道", FunXLatin[Opt-1]
+http://icecast.omroep.nl/funx-latin-bb-mp3
+#EXTINF:-1, group-title="其他频道", FunXLatin[Opt-2]
+http://icecast.omroep.nl/funx-latin-sb-mp3
+#EXTINF:-1, group-title="其他频道", NavarraTV(Opt-2)
+http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", 112Ukraine(Opt-1)
+http://app.live.112.events/hls/112hd_mid/index.m3u8
+#EXTINF:-1, group-title="其他频道", 112Ukraine(Opt-2)
+http://app.live.112.events/hls-ua/112hd_mid/index.m3u8
+#EXTINF:-1, group-title="其他频道", BeachTV-PanamaCity
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+#EXTINF:-1, group-title="其他频道", DesiChannel(Opt-1)
+http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", FunXDenHaag[Opt-1]
+http://icecast.omroep.nl/funx-denhaag-bb-mp3
+#EXTINF:-1, group-title="其他频道", FunXDenHaag[Opt-2]
+http://icecast.omroep.nl/funx-denhaag-sb-mp3
+#EXTINF:-1, group-title="其他频道", KOMO4News(Seattle)
+https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
+#EXTINF:-1, group-title="其他频道", SaudiTVDocumentary
+http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=thaqafiya
+#EXTINF:-1, group-title="其他频道", TheShoppingChannel
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+#EXTINF:-1, group-title="其他频道", ArribaColombiaCajica
+http://cdn.instream.audio:9137/stream
+#EXTINF:-1, group-title="其他频道", FR-France24(English)
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1, group-title="其他频道", BeachTV-PawleysIsland
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", BarrancabermejaVirtual
+http://stream1.305stream.com:8240/;
+#EXTINF:-1, group-title="其他频道", HouseofRepresentatives
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
+#EXTINF:-1, group-title="其他频道", TelemicroCanal5(Opt-2)
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0005&mode=12
+#EXTINF:-1, group-title="其他频道", US-JCCCCableTV(English)
+http://stream.jccc.edu:1935/Cablestream/livestream/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", TVERioGrandedoSul(Opt-1)
+http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", 1431AMThessaloniki[Opt-1]
+http://155.207.18.114:8000/1431med
+#EXTINF:-1, group-title="其他频道", 1431AMThessaloniki[Opt-2]
+http://155.207.18.114:8000/1431ogg
+#EXTINF:-1, group-title="其他频道", DistrictofColumbiaNetwork
+http://video.oct.dc.gov/out/u/DCN.m3u8
+#EXTINF:-1, group-title="其他频道", AmbientSleepingPill[Opt-1]
+http://163.172.169.217:80/asp-s
+#EXTINF:-1, group-title="其他频道", AmbientSleepingPill[Opt-2]
+http://163.172.169.217:80/asp-h
+#EXTINF:-1, group-title="其他频道", DanceWave!-RetroHungary[Opt-1]
+http://retro.dancewave.online/retrodance.mp3
+#EXTINF:-1, group-title="其他频道", DanceWave!-RetroHungary[Opt-2]
+http://retro.dancewave.online/retrodance.ogg
+#EXTINF:-1, group-title="其他频道", CooperativaUniversitariaAsuncion
+http://200.108.136.94:8000/envivo
+#EXTINF:-1, group-title="广播频道", 51RadioTV
+http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
+#EXTINF:-1, group-title="广播频道", TottoRadio
+http://stream.exeamedia.com/tottorelay
+#EXTINF:-1, group-title="广播频道", rockXradio
+http://158.69.227.214:8000/stream
+#EXTINF:-1, group-title="广播频道", RadioJahani
+http://shoutcast.wrn.org:8025/vor
+#EXTINF:-1, group-title="广播频道", ITURadioRock
+http://160.75.86.29:8088/stream/1/
+#EXTINF:-1, group-title="广播频道", RadioGalaxia
+http://sscl.denialstream.com:8830/;stream/1.mp3
+#EXTINF:-1, group-title="广播频道", Antena1FM94.7
+http://5.135.83.159:80/stream2
+#EXTINF:-1, group-title="广播频道", RadioIglesias
+http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
+#EXTINF:-1, group-title="广播频道", RadioParadise
+http://stream-uk1.radioparadise.com/mp3-192
+#EXTINF:-1, group-title="广播频道", AudioNoirRadio
+http://198.245.61.123:8000/noir
+#EXTINF:-1, group-title="广播频道", PulsRadioDance
+http://213.251.190.165:80/pulsHD.mp3
+#EXTINF:-1, group-title="广播频道", MondoBongoRadio
+http://5.63.151.52:7082/stream
+#EXTINF:-1, group-title="广播频道", ABCRadioNational
+http://live-radio01.mediahubaustralia.com/2RNW/aac/master.m3u8
+#EXTINF:-1, group-title="广播频道", IslandVibesRadio
+http://74.50.122.103:8982/;stream
+#EXTINF:-1, group-title="广播频道", PazFM89.5Goiania
+http://digital.umhost.com.br:9978/;
+#EXTINF:-1, group-title="广播频道", CultRadioA-Go-Go!
+http://s10.voscast.com:8502/;stream.mp3
+#EXTINF:-1, group-title="广播频道", ITURadioClassical
+http://160.75.86.29:8088/stream/5/
+#EXTINF:-1, group-title="广播频道", ABradio.cz-Pohadka
+http://ice3.abradio.cz/pohadka128.mp3
+#EXTINF:-1, group-title="广播频道", ITURadioJazz/Blues
+http://160.75.86.29:8088/stream/3/
+#EXTINF:-1, group-title="广播频道", RadioKymata104.4FM
+http://10440fm.live24.gr/10440fm
+#EXTINF:-1, group-title="广播频道", BritishSixtiesRadio
+http://5.63.151.52:7070/stream
+#EXTINF:-1, group-title="广播频道", CvsRadio1-ReggaeJam
+http://74.50.122.103:9128/;stream
+#EXTINF:-1, group-title="广播频道", WCPN90.3FMCleveland
+http://audio1.ideastream.org/wcpn128.mp3
+#EXTINF:-1, group-title="广播频道", RadioTeleBoston(USA)
+http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
+#EXTINF:-1, group-title="广播频道", ABradio.cz-Relax-Fire
+http://ice6.abradio.cz/relax-fire128.mp3
+#EXTINF:-1, group-title="广播频道", Horror+HalloweenRadio
+http://s2.voscast.com:11034/;stream.mp3
+#EXTINF:-1, group-title="广播频道", GalGalatz91.8FMTelAviv
+http://glzwizzlv.bynetcdn.com/glz_mp3
+#EXTINF:-1, group-title="广播频道", HarboroughFM102.3[AAC]
+http://edge-audio-03-gos2.sharp-stream.com:80/harboroughfm.aac
+#EXTINF:-1, group-title="广播频道", SawtElMada92.4FMBeirut
+http://audiostreaming.itworkscdn.com:9018/;
+#EXTINF:-1, group-title="广播频道", UOCRadio96.7FMHeraklion
+http://147.52.178.164:8000/uoc_128.mp3
+#EXTINF:-1, group-title="广播频道", BabaRadyo105.6FMIstanbul
+http://37.247.100.100/best/babaradyo.stream/chunklist.m3u8
+#EXTINF:-1, group-title="广播频道", RadyoMuzik97.6FMIstanbul
+http://37.247.100.118/stream/68/
+#EXTINF:-1, group-title="广播频道", 100.1FMFlagstaff-Prescott
+http://206.190.135.28:8602/listen.
+#EXTINF:-1, group-title="广播频道", RadioMorena640AMGuayaquil
+http://74.50.122.103:9388/;stream
+#EXTINF:-1, group-title="广播频道", RadyoTrafik104.2FMIstanbul
+http://37.247.100.118/stream/157/
+#EXTINF:-1, group-title="广播频道", RadioBI88.7FMAguascalientes
+http://201.159.48.107:2860/
+#EXTINF:-1, group-title="广播频道", RadioSlowTime91.2FMIstanbul
+http://37.247.100.118/stream/69/
+#EXTINF:-1, group-title="广播频道", JaverianaEstereo91.9FMBogota
+http://radio05.cehis.net:8001/stream
+#EXTINF:-1, group-title="广播频道", ABradio.cz-Relax-Thunder+Rain
+http://ice6.abradio.cz/relax-thunder-rain128.mp3
+#EXTINF:-1, group-title="广播频道", EstereoClase92.9FMSanPedroSula
+http://74.50.122.103:9434/;stream
+#EXTINF:-1, group-title="广播频道", GoldiesRadio107.9FMSint-Niklaas
+http://5.63.151.52:7064/stream
+#EXTINF:-1, group-title="广播频道", LaPoderosa107.7FMAguascalientes
+http://201.159.48.105:2871/
+#EXTINF:-1, group-title="广播频道", RadyoSpor107.2FMIstanbul[Opt-1]
+http://37.247.100.118/stream/70/
+#EXTINF:-1, group-title="广播频道", PopularStereo105.6FMBarranquilla
+http://radio30.virtualtronics.com:8192/stream/1/
+#EXTINF:-1, group-title="广播频道", RadioCarnaval96.5FMAntofagasta[AAC]
+http://sonando.us.digitalproserver.com/carnaval_antofagasta.aac
