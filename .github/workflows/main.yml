@@ -27,10 +27,9 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
-    - name: Run iptv.py
+    - name: Find and run Python scripts
       run: |
-          cd python
-          find ./python -name "*.py" -type f -print0 | while IFS= read -r -d $'\0' file; do
+        find ./python -name "*.py" -type f -print0 | while IFS= read -r -d $'\0' file; do
           echo "Running $file"
           python "$file"
       
