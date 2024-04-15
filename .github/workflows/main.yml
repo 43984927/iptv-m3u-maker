@@ -27,12 +27,30 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
-    - name: Find and run Python scripts
+    - name: Run area.py
       run: |
-        find ./python -name "*.py" -type f -print0 | while IFS= read -r -d $'\0' file; do
-          echo "Running $file"
-          python "$file"
-      
+          cd python
+          python area.py
+          
+    - name: Run search_Tv.py
+      run: |
+          cd python
+          python db.py          
+          
+    - name: Run search_Tv.py
+      run: |
+          cd python
+          python main.py   
+                    
+    - name: Run search_Tv.py
+      run: |
+          cd python
+          python iptv.py   
+                    
+    - name: Run search_Tv.py
+      run: |
+          cd python
+          python tools.py   
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
