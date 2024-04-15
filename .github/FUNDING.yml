@@ -1,4 +1,39 @@
-# These are supported funding model platforms
+name: Generate and Deploy Live File
 
-patreon: evilcult
-custom: 'https://evilcult.dev/donation/'
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 0 */2 * *'  # Runs every 2 days at midnight
+    - cron: '0 12 */2 * *' # Runs every 2 days at noon
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Run iptv.py
+      run: |
+          cd python
+          python iptv.py
+      
+
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./http  # Directory where live.txt is generated
